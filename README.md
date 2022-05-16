@@ -1,20 +1,6 @@
 # iTunes Search API
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Home Screen - iTunes Search](https://user-images.githubusercontent.com/89892415/168565506-dfa46814-9622-4ec0-bdf8-88cf008d5651.png)
 
 # create-svelte
 
